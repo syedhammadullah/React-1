@@ -1,0 +1,23 @@
+body{
+  background-color: #28243D;
+}
+
+.App {
+  text-align: center;
+}
+
+.nextButton {
+  padding: 10px;
+  border: none;
+  background-color: #7265F0;
+  color: white;
+  border-radius: 15px;
+}
+
+.prevButton {
+  padding: 10px;
+  border: none;
+  background-color: #7265F0;
+  color: white;
+  border-radius: 15px;
+}
